@@ -1,0 +1,2 @@
+# BGR
+boardGame Rules
